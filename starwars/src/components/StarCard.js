@@ -4,13 +4,11 @@ import styled from 'styled-components'
 const CardDiv = styled.div`
 border: 1px solid black;
 width: 20%;
-margin 1%;
-background-color: rgba(168, 107, 50, 0.3)
+margin: 1%;
+background-color: rgba(168, 107, 50, 0.3);
 `;
 
-const Charname = styled.h1`
 
-`
 
 
 const StarCard = (props) => {
